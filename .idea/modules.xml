@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/java-oca.iml" filepath="$PROJECT_DIR$/java-oca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/w2-packages/w2-packages.iml" filepath="$PROJECT_DIR$/w2-packages/w2-packages.iml" />
+      <module fileurl="file://$PROJECT_DIR$/w3-school/w3-school.iml" filepath="$PROJECT_DIR$/w3-school/w3-school.iml" />
     </modules>
   </component>
 </project>
